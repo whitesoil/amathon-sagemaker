@@ -43,6 +43,14 @@ Amathon 2018 advance education
 
     git clone https://github.com/whitesoil/amathon-sagemaker.git
     
+    pip install import_ipynb
+    
 6. 다운로드가 완료되면 터미널 창 종료
 7. 다시 Jupyter notebook으로 복귀
 8. amathon-sagemaker -> Chapter_01.ipynb 열기
+
+## 3. S3 Bucket 생성하기
+1. AWS콘솔 창에서 S3 대시보드에 들어간다.
+2. 버킷만들기 클릭
+3. 버킷이름 : amathon-{이름}-s3
+4. 생성 버튼 클릭
