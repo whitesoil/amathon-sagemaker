@@ -32,15 +32,17 @@ Amathon 2018 advance education
 
 ### 3) 인스턴스 실행하기
 1. 생성된 인스턴스의 이름 클릭
-2. 우측 상단의 열기 클릭
+2. 우측 상단의 ***열기*** 를 클릭하여 Jupyter notebook 실행
 <img src="./images/sage-4.png" alt="Neural" style="width: 800px;"/>
 3. 우측 상단의 ***NEW*** 클릭
 4. 드랍박스에서 ***Terminal*** 클릭
 <img src="./images/sage-5.png" alt="Neural" style="width: 800px;"/>
 5. 터미널에 다음 순서대로 타이핑
 
-```
-cd SageMaker
+    cd SageMaker
 
-git clone https://github.com/whitesoil/amathon-sagemaker.git
-```
+    git clone https://github.com/whitesoil/amathon-sagemaker.git
+    
+6. 다운로드가 완료되면 터미널 창 종료
+7. 다시 Jupyter notebook으로 복귀
+8. amathon-sagemaker -> Chapter_01.ipynb 열기
