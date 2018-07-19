@@ -12,6 +12,7 @@ Amathon 2018 advance education
 - 머신러닝 알고리즘 내장
 - 딥러닝 프레임워크 내장 (Tensorflow, MXNet, PyTorch, ...)
 - 생각보다 빠름(?), 평범한 컴퓨터 보다는 빠르다.
+- 인스턴스 초당 과금 체계
 - 단점 : 인스턴스가 가격이 조금 나간다...
 
 ## 2. Amazon SageMaker 인스턴스 실행하기.
